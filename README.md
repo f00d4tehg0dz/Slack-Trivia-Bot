@@ -19,3 +19,6 @@ questions_sql_dump.zip is a dump from our sql database. [can be used for referen
 - Import the questions.sql 
   -  Either from raw_questions.zip or questions.sql_dump.zip (depending on your sql knowledge)
 - Run trivia_bot_background.sh
+
+
+[credit to the aim2wingaming community] (http://aim2wingaming.com)
